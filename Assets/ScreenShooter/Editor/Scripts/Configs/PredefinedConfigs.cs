@@ -51,6 +51,12 @@ namespace Borodar.ScreenShooter.Configs
             new ScreenshotConfig("iPhone 5.5-Inch Portrait", 1242, 2208, ScreenshotConfig.Format.PNG),
             new ScreenshotConfig("iPhone 5.5-Inch Landscape", 2208, 1242, ScreenshotConfig.Format.PNG),
 
+            new ScreenshotConfig("iPhone 5.8-Inch Portrait", 1125, 2436, ScreenshotConfig.Format.PNG),
+            new ScreenshotConfig("iPhone 5.8-Inch Landscape", 2436, 1125, ScreenshotConfig.Format.PNG),
+
+            new ScreenshotConfig("iPhone 6.5-Inch Portrait", 1242, 2688, ScreenshotConfig.Format.PNG),
+            new ScreenshotConfig("iPhone 6.5-Inch Landscape", 2688, 1242, ScreenshotConfig.Format.PNG),
+
             new ScreenshotConfig("iPad Portrait", 768, 1024, ScreenshotConfig.Format.PNG),
             new ScreenshotConfig("iPad Landscape", 1024, 768, ScreenshotConfig.Format.PNG),
 
@@ -58,7 +64,7 @@ namespace Borodar.ScreenShooter.Configs
             new ScreenshotConfig("iPad Hi-Res Landscape", 2048, 1536, ScreenshotConfig.Format.PNG),
 
             new ScreenshotConfig("iPad Pro Portrait", 2048, 2732, ScreenshotConfig.Format.PNG),
-            new ScreenshotConfig("iPad Pro Landscape", 2732, 2048, ScreenshotConfig.Format.PNG)
+            new ScreenshotConfig("iPad Pro Landscape", 2732, 2048, ScreenshotConfig.Format.PNG),
         };
 
         public static ScreenshotConfig[] Standalone =

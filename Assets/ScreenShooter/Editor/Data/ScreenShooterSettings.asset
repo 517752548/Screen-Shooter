@@ -13,17 +13,17 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Camera: {fileID: 0}
   ScreenshotConfigs:
-  - Name: Nexus 4 Portrait
-    Width: 768
-    Height: 1280
+  - Name: iPhone 5.5-Inch Portrait
+    Width: 1242
+    Height: 2208
     Type: 0
-  - Name: iPad Hi-Res Portrait
-    Width: 1536
-    Height: 2048
+  - Name: iPhone 6.5-Inch Portrait
+    Width: 1242
+    Height: 2688
     Type: 0
-  - Name: 4K UHD
-    Width: 3840
-    Height: 2160
+  - Name: iPad Pro Portrait
+    Width: 2048
+    Height: 2732
     Type: 0
   Tag: 01_
   AppendTimestamp: 0
